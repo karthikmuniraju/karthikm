@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Karthik M
 
 🎯 Full Stack Developer → Future AppSec Engineer | 🧪 Pentester in Training | 🚀 DevSecOps Enthusiast  
-🌐 Bengaluru, India | 📧 mkarthik2000@icloud.com | ☁️ TryHackMe: [YourProfileLink]
+🌐 Bengaluru, India | 📧 mkarthik2000@icloud.com | ☁️ TryHackMe: [https://tryhackme.com/p/makrthik20000]
 
 ---
 
@@ -53,17 +53,8 @@
 
 ---
 
-## 🧾 Featured Writeups & Reports
-
-📂 [Pentest Reports Repository](https://github.com/yourusername/pentest-reports)  
-🧰 [DevSecOps Pipeline Demo](https://github.com/yourusername/devsecops-lab)  
-📊 [TryHackMe Lab Tracker](https://github.com/yourusername/thm-journey)
-
----
-
-## 📬 Connect With Me
 
 - 📧 Email: mkarthik2000@icloud.com  
-- 🔗 [LinkedIn](https://linkedin.com/in/yourlinkedin)  
-- 💻 [GitHub](https://github.com/yourusername)  
-- 🎯 [TryHackMe](https://tryhackme.com/p/yourprofile)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/karthik-m-24077b219/)  
+- 💻 [GitHub](https://github.com/karthikmuniraju)  
+- 🎯 [TryHackMe](https://tryhackme.com/p/makrthik20000)
